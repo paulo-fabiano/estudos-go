@@ -1,0 +1,1 @@
+curl -X POST localhost:8000/tasks/add -H "Content-Typi: application/json" -d '{"nome":"Teste API", "descricao":"Isso é um teste."}'
